@@ -16,8 +16,11 @@ psql -U postgres
 > \q
 ```
 and assign user and password to it as per your choice
+```
+```
 
 **Run Migrations**
+
 
 ```bash
 npx sequelize db:migrate
@@ -33,7 +36,7 @@ npx sequelize-cli db:seed:all
 
 Run ```node server.js```
 ```bash
-Open [http://localhost:5343](http://localhost:5343) with your browser to see the result and start posting query through `Postman` or through your browser.
+Open [http://localhost:5004](http://localhost:5004) with your browser to see the result and start posting query through `Postman` or through your browser.
 ```
 ### Testing
 
