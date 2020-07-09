@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "myuser2",
+    "password": "mypass",
+    "database": "roofing2",
+    "logging": true,
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "myuser2",
+    "password": "mypass",
+    "database": "roofing2",
+    "logging": true,
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "myuser2",
+    "password": "mypass",
+    "database": "roofing2",
+    "logging": true,
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
